@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/DressaLuc.png" width="180"/>
 
 ## 👋 Hi! I'm Andressa Corrêa
 
