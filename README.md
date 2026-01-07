@@ -6,8 +6,13 @@
 
 
 # 💫 About Me:
-Currently working as Data Science Student<br>Looking to collaborate on open-source projects involving Python, Governance, Data Science and LM<br>Currently learning LM, Data Governance, BI and Power Automate <br>Ask me about LGPD, automation or systematic literature reviews <br>PhD in Physical Sciences at USP<br>Volunteer work in Girls in STEM (Fatec Jahu)
 
+- 🎓 Data Science student  
+- 🤝 Looking to collaborate on open-source projects involving Python, Governance and Data Science  
+- 📚 Currently learning LM, Data Governance, BI and Power Automate  
+- 💬 Ask me about LGPD, automation and systematic literature reviews  
+- 🎓 PhD in Physical Sciences at USP  
+- 🌱 Volunteer in Girls in STEM (Fatec Jahu)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andressa-correa-dados ) 
