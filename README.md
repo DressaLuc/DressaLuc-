@@ -14,6 +14,14 @@
 - 🎓 PhD in Physical Sciences at USP  
 - 🌱 Volunteer in Girls in STEM (Fatec Jahu)
 
+  ## 🚀 What I Do
+
+- 📊 Data analysis with Python  
+- 🧹 Data cleaning and visualization  
+- 🏛️ Studies in Data Governance and LGPD  
+- 🤖 Automation and academic data workflows
+  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andressa-correa-dados ) 
 
