@@ -1,3 +1,10 @@
+
+## 👋 Hi! I'm Andressa Corrêa
+
+🎓 Data Science Student | Data Governance | Python  
+📊 Interested in data-driven solutions, governance and social impact
+
+
 # 💫 About Me:
 Currently working as Data Science Student<br>Looking to collaborate on open-source projects involving Python, Governance, Data Science and LM<br>Currently learning LM, Data Governance, BI and Power Automate <br>Ask me about LGPD, automation or systematic literature reviews <br>PhD in Physical Sciences at USP<br>Volunteer work in Girls in STEM (Fatec Jahu)
 
