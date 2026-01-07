@@ -16,7 +16,15 @@
 
 <hr>
 
-
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://github.com/DressaLuc.png" width="160" />
+      <br><br>
+      <strong>Andressa Corrêa</strong>
+    </td>
+    <td>
+    
 
 
 # 💫 About Me
@@ -57,3 +65,7 @@
 ---
 
 📌 **Check out my pinned repositories below to see my main projects in Data Science and Governance.**
+
+    </td>
+  </tr>
+</table>
