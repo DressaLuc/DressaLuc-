@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi! I'm Andressa Corrêa</h2>
 
 <p align="center">
-🎓 Data Science Student | Data Governance | Python<br>
+🎓 Ph.D. | Data Scientist & AI Agents Developer | Credit Risk Modeling<br>
 📊 Interested in data-driven solutions, governance and social impact
 </p>
 
@@ -23,7 +23,7 @@
 - 🎓 Data Science student  
 - 🎓 PhD in Physical Sciences (USP)  
 - 🤝 Open to collaboration in Python, Data Science and Governance  
-- 📚 Currently learning Language Models, BI and Power Automate  
+- 📚 Currently learning Language Models, BI, Power Automate, AI Agents Orchestration (n8n & LangChain)
 - 💬 Ask me about LGPD, automation and systematic literature reviews  
 - 🌱 Volunteer in Girls in STEM (Fatec Jahu)
 
@@ -31,10 +31,12 @@
 - 📊 Data analysis with Python  
 - 🧹 Data cleaning and visualization  
 - 🏛️ Data Governance & LGPD studies  
-- 🤖 Automation and academic workflows  
+- 🤖 Automation and academic workflows
+- Credit Risk & Predictive Modeling
+- AI-driven Decision Support Systems
 
 ## 💻 Tech Stack
-Python · Pandas · NumPy · scikit-learn · SQL · Git · GitHub
+Python · Pandas · NumPy · scikit-learn · SQL · Git · GitHub · R · Azure
 
 ---
 
