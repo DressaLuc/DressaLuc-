@@ -3,6 +3,10 @@
 
 **🎓 Ph.D. | Data Scientist & AI Agents Developer | Credit Risk Modeling** *📊 Interested in data-driven solutions, governance, and social impact*
 
+<p align="center">
+  <img src="https://github.com/DressaLuc.png" width="180" style="border-radius: 50%;" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-correa-dados)
 
 ---
