@@ -36,8 +36,9 @@
 - AI-driven Decision Support Systems
 
 ## 💻 Tech Stack
-Python · Pandas · NumPy · scikit-learn · SQL · Git · GitHub · R · Azure
-
+**Data Science:** Python · Pandas · NumPy · scikit-learn · SQL · R · Azure  
+**AI & Automation:** n8n · LangChain · AI Agents · Power Automate  
+**Tools & Governance:** Git · GitHub · LGPD · Systematic Reviews
 ---
 
 📌 **Want to see my work?**  
